@@ -118,21 +118,31 @@ sähköpostilla tai kirjeellä.
 ## 10. Vuosikokous
 
 Yhdistyksen vuosikokouksessa käsitellään seuraavat asiat:
+
 1. kokouksen avaus
+
 2. valitaan kokouksen puheenjohtaja, sihteeri, kaksi
    pöytäkirjantarkastajaa ja tarvittaessa kaksi ääntenlaskijaa
+
 3. todetaan kokouksen laillisuus ja päätösvaltaisuus
+
 4. hyväksytään kokouksen työjärjestys
+
 5. esitetään tilinpäätös, vuosikertomus ja
    toiminnantarkastajien/tilintarkastajien lausunto
+
 6. päätetään tilinpäätöksen vahvistamisesta ja vastuuvapauden
    myöntämisestä hallitukselle ja muille vastuuvelvollisille
+
 7. vahvistetaan toimintasuunnitelma, tulo- ja menoarvio sekä
    liittymis- ja jäsenmaksujen suuruudet
+
 8. valitaan hallituksen puheenjohtaja ja muut jäsenet
+
 9. valitaan yksi tai kaksi toiminnantarkastajaa ja
    varatoiminnantarkastajaa taikka yksi tai kaksi tilintarkastajaa ja
    varatilintarkastajaa
+
 10. käsitellään muut kokouskutsussa mainitut asiat.
 
 Mikäli yhdistyksen jäsen haluaa saada jonkin asian yhdistyksen
