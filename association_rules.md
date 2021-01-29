@@ -7,7 +7,8 @@ Oulu.
 
 ## 2. Tarkoitus ja toiminnan laatu
 
-Yhdistyksen tarkoituksena on kehittää ja jakaa Thrive-peliä. Thrive on
+Yhdistyksen tarkoituksena on edistää videopelien harrastusta ja
+yhdessä tekemistä. Yhdistys kehittää ja jakaa Thrive-peliä. Thrive on
 peli, joka kertoo evoluutiosta niin että pelaaja ohjaa lajin
 yksisoluisesta elämästä avaruuteen asti. Pelin lähdekoodi tullaan
 jakamaan jonkin avoimen lähdekoodin lisenssin alaisena niiden
@@ -45,7 +46,12 @@ yhdistykselle, ja on nähtävissä, että vahinko jatkuu, voi yhdistyksen
 hallitus äänestää tämän jäsenen erottamisesta. Muussa tapauksissa
 jäsenen erottaminen käsitellään yhdistyksen kokouksessa. Jos jäsen on
 erotettu hallituksen toimesta, voi tämä pyytää, että erottaminen
-käsitellään uudestaan seuraavassa yhdistyksen kokouksessa.
+käsitellään uudestaan seuraavassa yhdistyksen kokouksessa. Pyyntö
+asian käsittelemisestä pitää lähettää viimeisintään kolme kuukautta
+erottamispäätöksen jälkeen. Pyynnön saavuttua se pitää käsitellä
+seuraavassa yhdistyksen kokouksessa siten, että pyynnön
+vastaanottamisesta sen käsittelyyn kuluu korkeintaan kolmetoista
+kuukautta.
 
 ## 4. Liittymis- ja jäsenmaksu
 
@@ -85,21 +91,20 @@ Yhdistyksen tilikausi on kalenterivuosi.
 
 ## 8. Yhdistyksen kokoukset
 
-Yhdistyksen kokoukset järjestetään pääasiassa etäyhteyksien
-avulla. Lisäksi kokouksella voi olla fyysinen sijainti, josta
-kokoukseen voi osallistua, niin hallituksen tai yhdistyksen kokouksen
-päättäessä. Yhdistyksen kokoukset järjestetään englanniksi, elleivät
-kaikki kokoukseen osallistuvat henkilöt puhu jotain muuta yhteistä
-kieltä. Yhdistyksen vuosikokous pidetään vuosittain hallituksen
-määräämänä päivänä touko-elokuussa. Yhdistyksen kokouksissa on
-jokaisella varsinaisella jäsenellä, kunniapuheenjohtajalla ja
-kunniajäsenellä yksi ääni. Yhdistyksen hallituksen nykyisillä ja
-entisillä jäsenillä, jos he ovat yhä yhdistyksen jäseniä, on kaksi
-ääntä käytössään joka äänestyksessä. Kannattavalla jäsenellä on
-kokouksessa läsnäolo- ja puheoikeus. Yhdistyksen kokouksen päätökseksi
-tulee, ellei säännöissä ole toisin määrätty, se mielipide, jota on
-kannattanut yli puolet annetuista äänistä. Äänten mennessä tasan
-ratkaisee kokouksen puheenjohtajan ääni, vaaleissa kuitenkin arpa.
+Yhdistyksen kokoukseen voi osallistua myös etäyhteyden avulla
+hallituksen tai yhdistyksen kokouksen niin päättäessä. Yhdistyksen
+kokoukset järjestetään englanniksi, elleivät kaikki kokoukseen
+osallistuvat henkilöt puhu jotain muuta yhteistä kieltä. Yhdistyksen
+vuosikokous pidetään vuosittain hallituksen määräämänä päivänä
+touko-elokuussa. Yhdistyksen kokouksissa on jokaisella varsinaisella
+jäsenellä, kunniapuheenjohtajalla ja kunniajäsenellä yksi
+ääni. Yhdistyksen hallituksen nykyisillä ja entisillä jäsenillä, jos
+he ovat yhä yhdistyksen jäseniä, on kaksi ääntä käytössään joka
+äänestyksessä. Kannattavalla jäsenellä on kokouksessa läsnäolo- ja
+puheoikeus. Yhdistyksen kokouksen päätökseksi tulee, ellei säännöissä
+ole toisin määrätty, se mielipide, jota on kannattanut yli puolet
+annetuista äänistä. Äänten mennessä tasan ratkaisee kokouksen
+puheenjohtajan ääni, vaaleissa kuitenkin arpa.
 
 Vaaleissa äänestys suoritetaan laittamalla ehdolla olevat henkilöt
 mieluusjärjestykseen. Hyväksyttävässä äänessä pitää olla ainakin

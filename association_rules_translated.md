@@ -11,10 +11,11 @@ domicile is Oulu.
 
 ## 2. Purpose and form of activities
 
-The purpose of the Association is to develop and distribute the Thrive
-game. Thrive is a game about the evolution of life in which the player
-controls a species from a unicellular level of life to the space
-age. The source code of the game will be distributed under an
+The purpose of the Association is support video games as a hobby and
+doing activities together. The Association develops and distributes
+the Thrive game. Thrive is a game about the evolution of life in which
+the player controls a species from a unicellular level of life to the
+space age. The source code of the game will be distributed under an
 open-source code license for the platforms that allow the source code
 used by applications to be distributed following the terms and
 conditions of the license. The graphics, music, templates and other
@@ -53,7 +54,10 @@ continuing. In that case, the Association's Board can vote for the
 said member to be dismissed. In other cases, the dismissal of a member
 is reviewed at the Association's meeting. If the Board has dismissed a
 member, the said member can request that the dismissal is reviewed
-again at the Association's next meeting.
+again at the Association's next meeting. The request must be made
+within three months of the dismissal. After the request has been
+received it has to be handled in the next Association's meeting so
+that handling the request takes a maximum of 13 months.
 
 ## 4. Accession and membership fee
 
@@ -96,23 +100,21 @@ The accounting period of the Association is the calendar year.
 
 ## 8. Meetings of the Association
 
-In principle, the meetings of the Association shall be held
-remotely. In addition to this, the meeting may have a physical
-location, where the meeting can be participated in, upon the decision
-of the Board or the meeting of the Association. The meetings of the
-Association shall be held in English unless all the participants of
-the meeting speak another common language. The General Meeting of the
-Association shall be held annually on a date defined by the Board in
-May-August. At meetings of the Association each permanent member, the
-Honorary President and honorary member have one vote. The current and
-former members of the Board of the Association, if they are still
-members of the Association, have two votes in each voting. Supporting
-members have the right to presence and the right to speak. The
-decision of the meeting of the Association is unless otherwise
-stipulated in the rules, the opinion that received over half of the
-votes that were cast. If the votes are tied, the chairperson of the
-meeting will cast the deciding vote, except in elections where tied
-votes are decided by drawing lots.
+The meetings of the association can also be participated in remotely
+upon the decision of the Board or the meeting of the Association. The
+meetings of the Association shall be held in English unless all the
+participants of the meeting speak another common language. The General
+Meeting of the Association shall be held annually on a date defined by
+the Board in May-August. At meetings of the Association each permanent
+member, the Honorary President and honorary member have one vote. The
+current and former members of the Board of the Association, if they
+are still members of the Association, have two votes in each
+voting. Supporting members have the right to presence and the right to
+speak. The decision of the meeting of the Association is unless
+otherwise stipulated in the rules, the opinion that received over half
+of the votes that were cast. If the votes are tied, the chairperson of
+the meeting will cast the deciding vote, except in elections where
+tied votes are decided by drawing lots.
 
 In elections, the voting is carried out by placing the candidates in
 order of preference. An acceptable vote must include at least a
