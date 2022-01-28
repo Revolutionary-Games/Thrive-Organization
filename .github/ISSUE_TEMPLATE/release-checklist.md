@@ -14,6 +14,7 @@ Checklist for Thrive release (these should roughly happen in order):
 - [ ] Mention on discord that feature freeze has started
 - [ ] 7 days before release: merge open PRs from weblate (first push all pending changes from weblate)
 - [ ] Run scripts/update_translation_progress.rb
+- [ ] Make sure save upgrade steps are added (if save breakage is not planned)
 - [ ] Make a release candidate and post on the community forums and discord (use DevCenter file hosting for the downloads)
 - [ ] Upload RC also to beta channel on game stores
 - [ ] Post announcement on Weblate when deadline for translations is (2 days before the release at the end of the day)
@@ -28,13 +29,17 @@ Checklist for Thrive release (these should roughly happen in order):
 - [ ] Make sure trailer is ready to go
 - [ ] Run scripts/update_translation_progress.rb
 - [ ] Update credits with scripts/retrieve_credits.rb
+- [ ] Add save upgrade step from RC to the full release (if save breakage is not planned)
 - [ ] On the day of release: compile and upload builds to Github release draft
 - [ ] Push the release version to the stable channel for game stores
 - [ ] Publish the release on Github
 - [ ] Update the launcher repo to have the new version listed in the launcher
 - [ ] Publish the trailer on our Youtube channel
 - [ ] Publish the devblog
+- [ ] Post on steam. Needs an 800x450 preview image
+- [ ] Post on Itch. Can copy-paste the first part of the devblog and link the rest
 - [ ] Link the release on Github to the devblog and link the trailer in the devblog
+- [ ] Post @everyone announcement with the devblog on community discord
 - [ ] After the release: turn the auto comment to Github off
 - [ ] Post general feedback thread on the community forums
 - [ ] Have the release livestream
