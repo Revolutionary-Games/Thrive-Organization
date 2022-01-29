@@ -17,6 +17,7 @@ Checklist for Thrive release (these should roughly happen in order):
 - [ ] Make sure save upgrade steps are added (if save breakage is not planned)
 - [ ] Make a release candidate and post on the community forums and discord (use DevCenter file hosting for the downloads)
 - [ ] Upload RC also to beta channel on game stores
+- [ ] Post an announcement on Steam about the RC and upcoming release
 - [ ] Post announcement on Weblate when deadline for translations is (2 days before the release at the end of the day)
 - [ ] Enable the auto comment on PRs about feature freeze
 - [ ] Start drafting the release on Github
