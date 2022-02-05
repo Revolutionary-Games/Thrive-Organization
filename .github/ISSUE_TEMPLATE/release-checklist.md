@@ -37,6 +37,7 @@ Checklist for Thrive release (these should roughly happen in order):
 - [ ] Update the launcher repo to have the new version listed in the launcher
 - [ ] Publish the trailer on our Youtube channel
 - [ ] Publish the devblog
+- [ ] Post the devblog (and trailer) on our subreddit
 - [ ] Post on steam. Needs an 800x450 preview image
 - [ ] Post on Itch. Can copy-paste the first part of the devblog and link the rest
 - [ ] Link the release on Github to the devblog and link the trailer in the devblog
