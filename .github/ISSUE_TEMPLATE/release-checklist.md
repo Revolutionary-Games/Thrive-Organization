@@ -19,12 +19,13 @@ Checklist for Thrive release (these should roughly happen in order):
 - [ ] Upload RC also to beta channel on game stores (with [ThriveStoreScripts](https://github.com/Revolutionary-Games/ThriveStoreScripts))
 - [ ] Post an announcement on Steam about the RC and upcoming release
 - [ ] Post announcement on Weblate when deadline for translations is (2 days before the release at the end of the day)
+- [ ] Post on Patreon about the RC
 - [ ] Enable the auto comment on PRs about feature freeze
 - [ ] Start drafting the release on Github
 - [ ] Post the patch notes draft on discord so that devblog can start
 - [ ] Get someone (or our usual trailer guy) to start working on a trailer
 - [ ] Make a livestream event on Youtube if there are probably enough people for it. Optional: make pre-stream questions for general audience
-- [ ] Make high priority questions thread for the VIP patrons
+- [ ] Make high priority questions thread for the VIP patrons, post on Patreon a general stream announcement and link the question threads
 - [ ] 1 day before release: merge last small fix PRs
 - [ ] Merge last translations PR (first push all pending changes from weblate)
 - [ ] Make sure trailer is ready to go
