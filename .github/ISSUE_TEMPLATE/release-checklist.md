@@ -24,8 +24,8 @@ Checklist for Thrive release (these should roughly happen in order):
 - [ ] Start drafting the release on Github
 - [ ] Post the patch notes draft on discord so that devblog can start
 - [ ] Get someone (or our usual trailer guy) to start working on a trailer
-- [ ] Make a livestream event on Youtube if there are probably enough people for it. Optional: make pre-stream questions for general audience
-- [ ] Make high priority questions thread for the VIP patrons, post on Patreon a general stream announcement and link the question threads
+- [ ] Make a livestream event on Youtube if there are probably enough people for it. Optional: make pre-stream questions for general audience (max 3 questions per person)
+- [ ] Make high priority questions thread for the VIP patrons (max 7 questions per person), post on Patreon a general stream announcement and link the question threads
 - [ ] Get someone to start writing the devblog
 - [ ] 1 day before release: merge last small fix PRs
 - [ ] Merge last translations PR (first push all pending changes from weblate)
