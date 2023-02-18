@@ -37,7 +37,7 @@ Checklist for Thrive release (these should roughly happen in order):
 - [ ] On the day of release: compile and upload builds to Github release draft
 - [ ] Push the release version to the stable channel for game stores
 - [ ] Publish the release on Github
-- [ ] Update the launcher repo to have the new version listed in the launcher
+- [ ] Update the launcher data on DevCenter to have the new version listed in the launcher
 - [ ] Publish the trailer on our Youtube channel
 - [ ] Publish the devblog
 - [ ] Post the devblog (and trailer) on our subreddit
