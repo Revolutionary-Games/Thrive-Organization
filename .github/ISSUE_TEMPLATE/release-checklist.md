@@ -29,7 +29,7 @@ Checklist for Thrive release (these should roughly happen in order):
 - [ ] Get someone to start writing the devblog
 - [ ] 1 day before release: merge last small fix PRs
 - [ ] Merge last translations PR (first push all pending changes from weblate)
-- [ ] Update patch notes in the Thrive repo (`simulation_parameters/common/patch_notes.yml`)
+- [ ] Update patch notes in the Thrive repo (`simulation_parameters/common/patch_notes.yml`). Need to make sure all last changes since the RC are included in the final release notes.
 - [ ] Make sure trailer is ready to go
 - [ ] Run `dotnet run --project Scripts -- translation-progress`
 - [ ] Update credits with `dotnet run --project Scripts -- credits`
