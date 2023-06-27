@@ -22,7 +22,7 @@ Checklist for Thrive release (these should roughly happen in order):
 - [ ] Post on Patreon about the RC
 - [ ] Enable the auto comment on PRs about feature freeze
 - [ ] Start drafting the release on Github
-- [ ] Post the patch notes draft on discord so that devblog can start
+- [ ] Post the patch notes draft on discord so that devblog can start (make sure to collect latest commit messages after the last BOTD)
 - [ ] Get someone (or our usual trailer guy) to start working on a trailer
 - [ ] Make a livestream event on Youtube if there are probably enough people for it. Optional: make pre-stream questions for general audience (max 3 questions per person)
 - [ ] Make high priority questions thread for the VIP patrons (max 7 questions per person), post on Patreon a general stream announcement and link the question threads
