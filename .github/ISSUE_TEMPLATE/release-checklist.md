@@ -14,7 +14,7 @@ Checklist for Thrive release (these should roughly happen in order):
 - [ ] Mention on discord that feature freeze has started
 - [ ] 7 days before release: merge open PRs from weblate (first push all pending changes from weblate)
 - [ ] Run `dotnet run --project Scripts -- translation-progress`
-- [ ] Run wiki content update script
+- [ ] Run wiki content update: `dotnet run --project Scripts -- wiki`
 - [ ] Make sure save upgrade steps are added (if save breakage is not planned)
 - [ ] Make a release candidate and post on the community forums and discord (use DevCenter file hosting for the downloads)
 - [ ] Upload RC also to beta channel on game stores (with [ThriveStoreScripts](https://github.com/Revolutionary-Games/ThriveStoreScripts))
@@ -34,7 +34,7 @@ Checklist for Thrive release (these should roughly happen in order):
 - [ ] Make sure trailer is ready to go
 - [ ] Run `dotnet run --project Scripts -- translation-progress`
 - [ ] Update credits with `dotnet run --project Scripts -- credits`
-- [ ] Update wiki content again with the update script if there were any changes after the RC to the wiki
+- [ ] Update wiki content again with the update script (`dotnet run --project Scripts -- wiki`) if there were any changes after the RC to the wiki
 - [ ] Add save upgrade step from RC to the full release (if save breakage is not planned)
 - [ ] On the day of release: compile and upload builds to Github release draft
 - [ ] Push the release version to the stable channel for game stores
