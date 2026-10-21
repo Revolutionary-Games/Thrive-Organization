@@ -27,6 +27,7 @@ Checklist for Thrive release (these should roughly happen in order):
 - [ ] Get someone (or our usual trailer guy) to start working on a trailer
 - [ ] Make a livestream event on Youtube if there are probably enough people for it. Optional: make pre-stream questions for general audience (max 2 questions per person)
 - [ ] Make high priority questions thread for the VIP patrons (max 7 questions per person), post on Patreon a general stream announcement and link the question threads
+- [ ] Post the livestream link to our subreddit and socials
 - [ ] Get someone to start writing the devblog
 - [ ] 1 day before release: merge last small fix PRs
 - [ ] Merge last translations PR (first push all pending changes from weblate)
@@ -36,6 +37,7 @@ Checklist for Thrive release (these should roughly happen in order):
 - [ ] Update credits with `dotnet run --project Scripts -- credits`
 - [ ] Update wiki content again with the update script (`dotnet run --project Scripts -- wiki`) if there were any changes after the RC to the wiki
 - [ ] Add save upgrade step from RC to the full release (if save breakage is not planned)
+- [ ] Add patch notes to the Thrive repo for the new release. Make sure last week's items are added (and also put into the GitHub draft)!
 - [ ] On the day of release: compile and upload builds to Github release draft
 - [ ] Push the release version to the stable channel for game stores
 - [ ] Publish the release on Github
