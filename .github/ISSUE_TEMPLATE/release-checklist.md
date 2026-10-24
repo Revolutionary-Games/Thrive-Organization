@@ -52,3 +52,4 @@ Checklist for Thrive release (these should roughly happen in order):
 - [ ] Post @everyone announcement with the devblog on community discord
 - [ ] After the release: turn the auto comment to Github off
 - [ ] Have the release livestream
+- [ ] Post the 1:1 aspect ratio and tall aspect ratio trailer cuts on Instagram and Youtube shorts for more visibility (they should start visually interestingly immediately)
