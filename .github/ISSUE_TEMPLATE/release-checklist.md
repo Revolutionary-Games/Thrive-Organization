@@ -26,6 +26,7 @@ Checklist for Thrive release (these should roughly happen in order):
 - [ ] Post the patch notes draft on discord so that devblog can start (make sure to collect latest commit messages after the last BOTD)
 - [ ] Get someone (or our usual trailer guy) to start working on a trailer
 - [ ] Make a livestream event on Youtube if there are probably enough people for it. Optional: make pre-stream questions for general audience (max 2 questions per person)
+- [ ] Set vertical stream layout on YouTube if stream event was created (so that mobile viewers don't have a terrible time)
 - [ ] Make high priority questions thread for the VIP patrons (max 7 questions per person), post on Patreon a general stream announcement and link the question threads
 - [ ] Post the livestream link to our subreddit and socials
 - [ ] Get someone to start writing the devblog
