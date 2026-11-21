@@ -49,7 +49,7 @@ Checklist for Thrive release (these should roughly happen in order):
 - [ ] Post on steam. Needs an 800x450 preview image
 - [ ] Post on Itch. Can copy-paste the first part of the devblog and link the rest
 - [ ] Link the release on Github to the devblog and link the trailer in the devblog
-- [ ] Post @everyone announcement with the devblog on community discord
+- [ ] Post @everyone announcement with the devblog on community Discord (make sure to do it at a time when Americans are awake)
 - [ ] After the release: turn the auto comment to Github off
 - [ ] Have the release livestream
 - [ ] Post the 1:1 aspect ratio and tall aspect ratio trailer cuts on Instagram and Youtube shorts for more visibility (they should start visually interestingly immediately)
